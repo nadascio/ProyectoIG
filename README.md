@@ -1,0 +1,2 @@
+# ProyectoIG
+Automatización IG
